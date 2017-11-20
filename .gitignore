@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+/lib
+/test.json
+docs
+/trainer/log_root/

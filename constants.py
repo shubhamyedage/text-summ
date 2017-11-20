@@ -1,0 +1,7 @@
+LOGGED_IN = "logged_in"
+URL = "url"
+OPERATIONTYPE = "operationType"
+SUMMARY = "summary"
+DATA = "data"
+TRAINING = "training"
+DECODE = "decode"
